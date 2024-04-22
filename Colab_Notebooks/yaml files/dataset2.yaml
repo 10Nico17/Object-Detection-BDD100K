@@ -1,0 +1,12 @@
+names:
+  0: pedestrian
+  1: rider
+  2: car
+  3: truck
+  4: bus
+  5: traffic light
+  6: traffic sign
+path: /content/
+val: smallDataset/images/val/
+train: smallDataset/images/train/
+val: smallDataset/images/test/

@@ -1,0 +1,13 @@
+names:
+  0: license-plate
+  1: car
+  2: pedestrian
+  3: rider
+  4: truck
+  5: bus
+  6: traffic light
+  7: traffic sign
+path: /content/
+val: LicensePlate/images/val/
+train: LicensePlate/images/train/
+test: LicensePlate/images/test/

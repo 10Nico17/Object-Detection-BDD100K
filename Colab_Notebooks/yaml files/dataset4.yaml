@@ -1,0 +1,6 @@
+names:
+  7: license-plate
+  2: car
+val: LicensePlate/images/val/
+train: LicensePlate/images/train/
+val: LicensePlate/images/test/
